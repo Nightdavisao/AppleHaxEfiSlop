@@ -8,6 +8,6 @@ There are some stuff that are intentionally excluded, like some kexts for the PS
 This is literally my desktop computer, the internal display no longer works and the hinges are somehow broken in a funny way. Not portable (*like an actual laptop should be*) at all.
 The wi-fi driver being used is itlwm; I swapped the previous Realtek card it used to have with an AX210 card. However, since the Airport variant of itlwm still doesn't work under Sequoia (and Tahoe), wi-fi will only work if you use Heliport, and macOS sees the card as an Ethernet card instead. You'll need to use an Ethernet cable (or use the RNDIS kext and plug your Android device in RNDIS mode) to be able to install macOS.
 
-I don't know this issue is specifically because the internal display of my laptop is detached, but after installing macOS, you'll need temporarily use WhateverGreen and remove NootedRed just get through the initial setup screen, since apparently the wizard window is off-screen.
+I don't know if this issue is specifically because the internal display of my laptop is detached, but after installing macOS, you'll need temporarily use WhateverGreen and remove NootedRed just get through the initial setup screen, since apparently, the wizard window is off-screen.
 
 Hackintosh is officially dead, by the way.
