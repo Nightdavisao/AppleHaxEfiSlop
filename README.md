@@ -1,6 +1,8 @@
 # Hackintoshing my poor Ideapad
 
 * Model: Lenovo Ideapad 3 15ALC6, 82MF0004BR
+* CPU: AMD Ryzen 7 5700U
+* GPU: Integrated graphics; NootedRed kext for GPU acceleration
 * The current config.plist has been only tested with Sequoia (for my own dev needs), although it should work on Sonoma with a better compatibility.
 * OpenCore version: I don't remember
 
